@@ -1,6 +1,7 @@
 ---
 title: block元素垂直水平居中
-categories: case
+categories: note
+tag: [HTML, CSS]
 date: 2017-08-06 18:38:53
 updated: 2017-08-06 18:38:53
 ---

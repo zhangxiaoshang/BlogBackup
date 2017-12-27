@@ -1,8 +1,8 @@
 ---
 title: JavaScript正则表达式
-date: 2017-04-11 09:37:12
-tags:
 categories: note
+tags: JS
+date: 2017-04-11 09:37:12
 ---
 ### 1-1 JS正则表达式简介及工具介绍
 

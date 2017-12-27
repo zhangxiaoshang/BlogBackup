@@ -1,12 +1,13 @@
 ---
-title: Mac更换homebrew软件镜像源
+title: Mac OS 更换Homebrew软件镜像源
+categories: log
+tags: [Mac, MySql]
 date: 2017-09-02 23:13:24
-updated: 2017-09-02 23:13:24
-tags:
+update: 2017-12-27 09:08
 ---
-### something
+### SOMETHING
 
-* device
+* Device
 
     * MacBook air
     
@@ -14,16 +15,16 @@ tags:
 
     * 10.12.3 (16D30)
     
-* brew --version
+* Brew --version
 
     * Homebrew 1.3.1
 
-* dependencies
+* Dependencies
 
     * git
 
 
-### do
+### DO
 
 ```shell
 # 替换brew.git:
@@ -50,11 +51,11 @@ $ source ~/.bash_profile
 # 应用生效:
 $ brew update
 ```
-[参考文献](http://blog.csdn.net/u010275932/article/details/76080833)
+[参考文献 http://blog.csdn.net/u010275932/article/details/76080833](http://blog.csdn.net/u010275932/article/details/76080833)
 
 ---
 
-Homebrew官方更新源是大陆访问一直是比较慢的，之前凑合着用，直到今儿，本来打算晚上搞事儿，结果一个mysql愣是耗了一个晚上才装上，可能也和郊区的渣网有关，忍无可忍，这源非换不可，试了两次，最后成功替换为清华大学提供的软件源。
+Homebrew官方更新源是大陆访问一直是比较慢的，之前凑合着用，直到今儿，本来打算晚上搞事儿，结果一个mysql愣是耗了一个晚上才装上，可能也和郊区的渣网有关，不能忍，试了几次，最后成功替换为清华大学提供的软件源。
 
 ---
 

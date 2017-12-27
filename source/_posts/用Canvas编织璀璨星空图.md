@@ -1,6 +1,7 @@
 ---
 title: 用Canvas编织璀璨星空图
 categories: note
+tags: [HTML, JS, Canvas]
 date: 2017-07-16 10:42:10
 updated: 2017-07-16 10:42:10
 ---

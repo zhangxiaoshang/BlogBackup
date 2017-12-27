@@ -1,8 +1,8 @@
 ---
 title: Hello Hexo Again
+categories: log
+tags: Hexo
 date: 2017-03-01 09:37:12
-tags:
-categories: note
 ---
 >是不是很有极客范儿, 我喜欢这个博客!
 
