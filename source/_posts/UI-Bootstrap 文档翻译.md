@@ -1,8 +1,8 @@
 ---
 title: UI-Bootstrap文档翻译
-date: 2017-03-19 20:44:52
-tags: 
 categories: note
+tags: AngularJS
+date: 2017-03-19 20:44:52
 ---
 ### UI Bootstrap
 
