@@ -1,5 +1,5 @@
 ---
-title: js中float精度问题
+title: JS中float精度问题
 categories: log
 tags: JS
 date: 2017-08-25 22:04:16
