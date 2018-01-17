@@ -77,6 +77,9 @@ date: 2017-03-01 09:37:12
 
 3. 	`$ npm install hexo-deployer-git --save` （执行这条命令，否则使用 `hexo deploy`部署时会报错.）
 
+### 2018-01-17 新主题增加GitCommnet评论系统
+
+1. themes/yilia/_config.yml 配置相应参数即可
 
 
 
