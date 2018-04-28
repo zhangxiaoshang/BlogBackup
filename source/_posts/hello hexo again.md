@@ -82,4 +82,31 @@ date: 2017-03-01 09:37:12
 1. themes/yilia/_config.yml 配置相应参数即可
 
 
+### 2018-04-17 重新搭建博客简单方式
+
+1.克隆hexo项目  
+```bash
+git clone git@github.com:zhangxiaoshang/BlogBackup.git Blog
+```
+
+2.安装依赖
+
+```bash
+cnpm install
+```
+
+3.克隆主题  
+```bash
+cd Blog
+mkdir themes && cd themes
+git clone git@github.com:zhangxiaoshang/hexo-theme-yilia.git yilia
+```
+
+4.完成
+
+```bash
+hexo s
+```
+
+
 
