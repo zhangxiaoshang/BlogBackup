@@ -6,13 +6,11 @@
     "version": "3.7.1"
   },
   "scripts": {
-    "backup": "npm run bk && npm run totheme && npm run bk",
-    "bk": "npm run add && npm run commit && npm run pull && npm run push",
+    "backup": "npm run add && npm run commit && npm run pull && npm run push",
     "add": "git add .",
     "commit": "git commit -m 'backup'",
     "pull": "git pull origin master",
-    "push": "git push origin master",
-    "totheme": "cd themes/yilia"
+    "push": "git push origin master"
   },
   "dependencies": {
     "hexo": "^3.2.0",
